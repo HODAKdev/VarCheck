@@ -1,0 +1,9 @@
+Package: com.yourcompany.jbd
+Name: jbd
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome SwiftUI application!
+Maintainer: hodak
+Author: hodak
+Section: Utilities
+Depends: firmware (>= 14.0)
